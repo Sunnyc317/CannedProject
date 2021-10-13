@@ -39,14 +39,16 @@ email: s@mail.com
 password: Password1
 ```
 
-### Note on contributions: 
+### Note on contributions
 - The work for setting up the MongoDB database, creating collections and the respective schemas was lead by `PulkitMadan`, in colloboration with `Sunnyc317`
 - The home page was done by Kashif and Sunny, the Trending page was made by Sunny and the account page was made by Kashif
 - API wrapping program in the server folder was written by Kashif. 
 
 ### Commit history screenshot 
-![](/images/commit1.png)
-![](/images/commit1.png)
-![](/images/commit1.png)
-![](/images/commit1.png)
-![](/images/commit1.png)
+<p float="left">
+  <img src="/images/commit1.png" height="700"/>
+  <img src="/images/commit2.png" height="700"/>
+  <img src="/images/commit3.png" height="700"/>
+  <img src="/images/commit4.png" height="700"/>
+  <img src="/images/commit5.png" height="700"/>
+</p>
