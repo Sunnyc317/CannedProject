@@ -2,8 +2,8 @@
 This is a web page that presents trending podcasts and allow users to create their favourite list of podcasts. 
 
 ### Here are some screenshot of our website, Canned Pods
-![Home Page](/images/)
-![Trending page](/images/)
+![Home Page](/images/home.png)
+![Trending page](/images/trending.png)
 
 # Major Group Project
 ​
@@ -41,8 +41,8 @@ password: Password1
 - API wrapping program in the server folder was written by Kashif. 
 
 ### Commit history screenshot 
-!(/images/)
-!(/images/)
-!(/images/)
-!(/images/)
-!(/images/)
+!(/images/commit1.png)
+!(/images/commit1.png)
+!(/images/commit1.png)
+!(/images/commit1.png)
+!(/images/commit1.png)
