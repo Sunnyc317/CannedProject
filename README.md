@@ -1,8 +1,13 @@
 # CannedProject
+This is a web page that presents trending podcasts and allow users to create their favourite list of podcasts. 
+
+### Here are some screenshot of our website, Canned Pods
+![Home Page](/images/)
+![Trending page](/images/)
 
 # Major Group Project
 ​
-Before you submit your project, modify the following table to include everyone's full name and GitHub usernames:
+This is a group project for the course Web Development. Since the organization repositories are private, the project is posted on this personal repository again as a project showcase
 ​
 | Group Member Name          | GitHub Username    |
 | :------------------------- |:------------------:|
@@ -11,10 +16,6 @@ Before you submit your project, modify the following table to include everyone's
 | Pulkit Madan               | PulkitMadan        |
 | Yiqing Cao                 | Sunnyc317 |
 
-
-
-## Link to Independant Study
-https://docs.google.com/presentation/d/1yxPW4x8Fq5zhkn26kV6CI4accEoO7q1Wi2sQmbuF9U4/edit?usp=sharing
 
 ## Running the project 
 ```
@@ -34,7 +35,14 @@ email: s@mail.com
 password: Password1
 ```
 
-### Note on contributions for Database setup and Google Slides: 
+### Note on contributions: 
 - The work for setting up the MongoDB database, creating collections and the respective schemas was lead by `PulkitMadan`, in colloboration with `Sunnyc317`
+- The home page was done by Kashif and Sunny, the Trending page was made by Sunny and the account page was made by Kashif
+- API wrapping program in the server folder was written by Kashif. 
 
-- The work for presentation for independant study was lead by `PulkitMadan`, in colloboration with `KashifIV`. 
+### Commit history screenshot 
+!(/images/)
+!(/images/)
+!(/images/)
+!(/images/)
+!(/images/)
