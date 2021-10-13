@@ -3,8 +3,8 @@ This is a web page that presents trending podcasts and allow users to create the
 
 ### Here are some screenshot of our website, Canned Pods
 <p float="left">
-  <img src="/images/home.png" height="700"/>
-  <img src="/images/trending2.png" height="700"/> 
+  <img src="/images/home.png" height="600"/>
+  <img src="/images/trending2.png" height="600"/> 
 </p>
 
 <!-- ![Home Page](/images/home.png) | ![Trending page](/images/trending.png) -->
