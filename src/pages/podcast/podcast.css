@@ -1,0 +1,55 @@
+.episodes{
+  margin: auto;
+}
+
+.episodes li{
+  opacity: 0.5;
+  cursor: pointer;
+  float: left; 
+  padding: .5rem;
+}
+
+.episodes li:hover{
+  transition: opacity 0.5s;
+  opacity: 1;
+}
+
+.clear{
+  clear: left; 
+  display: block; 
+}
+.total-rating{
+  font-size: 40pt;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.heartbtn, button{
+  position: absolute;
+  left: 5%;
+}
+
+button{
+  /* border: 5px solid rgb(224, 88, 88);
+  border-radius: 8px; */
+  border: none;
+  border-radius: 4px;
+  background: rgb(224, 88, 88);
+  display: flex;
+  cursor: pointer;
+  padding: 8px;
+}
+
+.inside-btn{
+  font-size: 15px;
+  font-weight: 400;
+  font-family: sans-serif;
+  color: white;
+}
+
+@media screen and (max-width: 600px){
+  .episodes li{
+  float: none; 
+    padding-right: 0; 
+  }
+}

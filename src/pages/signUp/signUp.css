@@ -1,0 +1,16 @@
+.signup-form{
+  text-align: left;
+  width: 50%; 
+  position: relative;
+  left: 0; 
+  padding: 2rem; 
+}
+.hide{
+  display: none;
+}
+
+@media screen and (max-width: 600px){
+  .signup-form{
+    width: 90%;
+  }
+}
