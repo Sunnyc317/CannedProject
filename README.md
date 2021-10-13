@@ -1,5 +1,5 @@
 # CannedProject
-This is a web page that presents trending podcasts and allow users to create their favourite list of podcasts. 
+This is a web page that presents trending podcasts and allow users to review and create their favourite list of podcasts. 
 
 ### Here are some screenshot of our website, Canned Pods
 <p float="left">
